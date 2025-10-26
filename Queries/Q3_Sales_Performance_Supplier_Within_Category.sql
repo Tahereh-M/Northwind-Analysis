@@ -1,5 +1,5 @@
 /************************************************************************
-Question_3 : 
+Question 3 : 
 The Marketing Team wants to analyze the sales performance of suppliers within each product category. 
 They asked to provide a list with the following information:
 

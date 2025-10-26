@@ -1,5 +1,5 @@
-/**************************************
-Question4:
+/****************************************************
+Question 4:
 The Management Team wants to analyze sales performance by region and territory over the years 1996-1998.
 They asked to provide a report with the following information:
 
@@ -14,7 +14,8 @@ The results should be displayed in a pivot format, with years (1996, 1997, 1998)
 
 Finally, order the results by Region and then by Territory in ascending order.
 
-***************************************/
+****************************************************/
+
 WITH RegionalSales AS(
 	SELECT 
 		r.RegionDescription as Region,
