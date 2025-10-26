@@ -1,0 +1,96 @@
+SupplierName,SupplierCountry,CategoryName,TotalRevenue,OverallRevenue,GroupLevel
+NULL,NULL,NULL,1265793.04,1265793.04,Grand Total
+NULL,Australia,NULL,172086.55,1265793.04,Country
+"G'day, Mate",Australia,Grains/Cereals,3232.95,1265793.04,Supplier + Country + Category
+"G'day, Mate",Australia,Meat/Poultry,20574.17,1265793.04,Supplier + Country + Category
+"G'day, Mate",Australia,Produce,41819.65,1265793.04,Supplier + Country + Category
+"G'day, Mate",Australia,NULL,65626.77,1265793.04,Supplier + Country
+"Pavlova, Ltd.",Australia,Beverages,10672.65,1265793.04,Supplier + Country + Category
+"Pavlova, Ltd.",Australia,Condiments,16701.1,1265793.04,Supplier + Country + Category
+"Pavlova, Ltd.",Australia,Confections,17215.78,1265793.04,Supplier + Country + Category
+"Pavlova, Ltd.",Australia,Meat/Poultry,32698.38,1265793.04,Supplier + Country + Category
+"Pavlova, Ltd.",Australia,Seafood,29171.88,1265793.04,Supplier + Country + Category
+"Pavlova, Ltd.",Australia,NULL,106459.78,1265793.04,Supplier + Country
+NULL,Brazil,NULL,4504.37,1265793.04,Country
+Refrescos Americanas LTDA,Brazil,Beverages,4504.37,1265793.04,Supplier + Country + Category
+Refrescos Americanas LTDA,Brazil,NULL,4504.37,1265793.04,Supplier + Country
+NULL,Canada,NULL,83742.21,1265793.04,Country
+Forêts d'érables,Canada,Condiments,14352.6,1265793.04,Supplier + Country + Category
+Forêts d'érables,Canada,Confections,47234.97,1265793.04,Supplier + Country + Category
+Forêts d'érables,Canada,NULL,61587.57,1265793.04,Supplier + Country
+Ma Maison,Canada,Meat/Poultry,22154.64,1265793.04,Supplier + Country + Category
+Ma Maison,Canada,NULL,22154.64,1265793.04,Supplier + Country
+NULL,Denmark,NULL,10221.17,1265793.04,Country
+Lyngbysild,Denmark,Seafood,10221.17,1265793.04,Supplier + Country + Category
+Lyngbysild,Denmark,NULL,10221.17,1265793.04,Supplier + Country
+NULL,Finland,NULL,28442.73,1265793.04,Country
+Karkki Oy,Finland,Beverages,15760.44,1265793.04,Supplier + Country + Category
+Karkki Oy,Finland,Confections,12682.29,1265793.04,Supplier + Country + Category
+Karkki Oy,Finland,NULL,28442.73,1265793.04,Supplier + Country
+NULL,France,NULL,277554.13,1265793.04,Country
+Aux joyeux ecclésiastiques,France,Beverages,153691.28,1265793.04,Supplier + Country + Category
+Aux joyeux ecclésiastiques,France,NULL,153691.28,1265793.04,Supplier + Country
+Escargots Nouveaux,France,Seafood,5881.68,1265793.04,Supplier + Country + Category
+Escargots Nouveaux,France,NULL,5881.68,1265793.04,Supplier + Country
+Gai pâturage,France,Dairy Products,117981.18,1265793.04,Supplier + Country + Category
+Gai pâturage,France,NULL,117981.18,1265793.04,Supplier + Country
+NULL,Germany,NULL,197450.02,1265793.04,Country
+Heli Sü?waren GmbH & Co. KG,Germany,Confections,38653.42,1265793.04,Supplier + Country + Category
+Heli Sü?waren GmbH & Co. KG,Germany,NULL,38653.42,1265793.04,Supplier + Country
+Nord-Ost-Fisch Handelsgesellschaft mbH,Germany,Seafood,13424.2,1265793.04,Supplier + Country + Category
+Nord-Ost-Fisch Handelsgesellschaft mbH,Germany,NULL,13424.2,1265793.04,Supplier + Country
+Plutzer Lebensmittelgro?m?rkte AG,Germany,Beverages,8177.49,1265793.04,Supplier + Country + Category
+Plutzer Lebensmittelgro?m?rkte AG,Germany,Condiments,9171.63,1265793.04,Supplier + Country + Category
+Plutzer Lebensmittelgro?m?rkte AG,Germany,Grains/Cereals,21957.97,1265793.04,Supplier + Country + Category
+Plutzer Lebensmittelgro?m?rkte AG,Germany,Meat/Poultry,80368.67,1265793.04,Supplier + Country + Category
+Plutzer Lebensmittelgro?m?rkte AG,Germany,Produce,25696.64,1265793.04,Supplier + Country + Category
+Plutzer Lebensmittelgro?m?rkte AG,Germany,NULL,145372.4,1265793.04,Supplier + Country
+NULL,Italy,NULL,98479.78,1265793.04,Country
+Formaggi Fortini s.r.l.,Italy,Dairy Products,48225.16,1265793.04,Supplier + Country + Category
+Formaggi Fortini s.r.l.,Italy,NULL,48225.16,1265793.04,Supplier + Country
+Pasta Buttini s.r.l.,Italy,Grains/Cereals,50254.61,1265793.04,Supplier + Country + Category
+Pasta Buttini s.r.l.,Italy,NULL,50254.61,1265793.04,Supplier + Country
+NULL,Japan,NULL,45263.1,1265793.04,Country
+Mayumi's,Japan,Condiments,1784.82,1265793.04,Supplier + Country + Category
+Mayumi's,Japan,Produce,7991.49,1265793.04,Supplier + Country + Category
+Mayumi's,Japan,Seafood,4960.44,1265793.04,Supplier + Country + Category
+Mayumi's,Japan,NULL,14736.76,1265793.04,Supplier + Country
+Tokyo Traders,Japan,Meat/Poultry,7226.5,1265793.04,Supplier + Country + Category
+Tokyo Traders,Japan,Produce,2432.5,1265793.04,Supplier + Country + Category
+Tokyo Traders,Japan,Seafood,20867.34,1265793.04,Supplier + Country + Category
+Tokyo Traders,Japan,NULL,30526.34,1265793.04,Supplier + Country
+NULL,Netherlands,NULL,5326.79,1265793.04,Country
+Zaanse Snoepfabriek,Netherlands,Confections,5326.79,1265793.04,Supplier + Country + Category
+Zaanse Snoepfabriek,Netherlands,NULL,5326.79,1265793.04,Supplier + Country
+NULL,Norway,NULL,43141.51,1265793.04,Country
+Norske Meierier,Norway,Dairy Products,43141.51,1265793.04,Supplier + Country + Category
+Norske Meierier,Norway,NULL,43141.51,1265793.04,Supplier + Country
+NULL,Singapore,NULL,42017.65,1265793.04,Country
+Leka Trading,Singapore,Beverages,23526.7,1265793.04,Supplier + Country + Category
+Leka Trading,Singapore,Condiments,9915.94,1265793.04,Supplier + Country + Category
+Leka Trading,Singapore,Grains/Cereals,8575,1265793.04,Supplier + Country + Category
+Leka Trading,Singapore,NULL,42017.65,1265793.04,Supplier + Country
+NULL,Spain,NULL,25159.43,1265793.04,Country
+Cooperativa de Quesos 'Las Cabras',Spain,Dairy Products,25159.43,1265793.04,Supplier + Country + Category
+Cooperativa de Quesos 'Las Cabras',Spain,NULL,25159.43,1265793.04,Supplier + Country
+NULL,Sweden,NULL,31868.12,1265793.04,Country
+PB Kn?ckebr?d AB,Sweden,Grains/Cereals,11724.06,1265793.04,Supplier + Country + Category
+PB Kn?ckebr?d AB,Sweden,NULL,11724.06,1265793.04,Supplier + Country
+Svensk Sj?f?da AB,Sweden,Seafood,20144.06,1265793.04,Supplier + Country + Category
+Svensk Sj?f?da AB,Sweden,NULL,20144.06,1265793.04,Supplier + Country
+NULL,UK,NULL,78432.04,1265793.04,Country
+Exotic Liquids,UK,Beverages,29144.06,1265793.04,Supplier + Country + Category
+Exotic Liquids,UK,Condiments,3044,1265793.04,Supplier + Country + Category
+Exotic Liquids,UK,NULL,32188.06,1265793.04,Supplier + Country
+"Specialty Biscuits, Ltd.",UK,Confections,46243.98,1265793.04,Supplier + Country + Category
+"Specialty Biscuits, Ltd.",UK,NULL,46243.98,1265793.04,Supplier + Country
+NULL,USA,NULL,122103.46,1265793.04,Country
+Bigfoot Breweries,USA,Beverages,22391.2,1265793.04,Supplier + Country + Category
+Bigfoot Breweries,USA,NULL,22391.2,1265793.04,Supplier + Country
+Grandma Kelly's Homestead,USA,Condiments,19909,1265793.04,Supplier + Country + Category
+Grandma Kelly's Homestead,USA,Produce,22044.3,1265793.04,Supplier + Country + Category
+Grandma Kelly's Homestead,USA,NULL,41953.3,1265793.04,Supplier + Country
+New England Seafood Cannery,USA,Seafood,26590.97,1265793.04,Supplier + Country + Category
+New England Seafood Cannery,USA,NULL,26590.97,1265793.04,Supplier + Country
+New Orleans Cajun Delights,USA,Condiments,31167.99,1265793.04,Supplier + Country + Category
+New Orleans Cajun Delights,USA,NULL,31167.99,1265793.04,Supplier + Country
