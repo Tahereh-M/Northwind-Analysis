@@ -81,7 +81,7 @@ Northwind-Analytics/
   ![Customers Dashboard](PowerBI_Dashboard/Dashboard_Screenshots/customers_page.png)
 </details>
 
-<hr style="border: 2px solid #0969da; border-radius: 2px; margin: 2rem 0;">
+---
 
 ## 💾 SQL Queries
 
@@ -108,7 +108,7 @@ Sort the results by average order value in descending order.
  🔗 [View Q1 solution](Queries/Q1_Expensive_Products_Customers.sql)
  🔗 [View Q1 Result](CSV/Q1_Result_Expensive_Products_Customers.csv)
 
-***  
+
 
 </details>
 
