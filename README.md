@@ -87,8 +87,48 @@ Northwind-Analytics/
 
 <details>
   <summary>📜 Click to expand all SQL queries</summary>
+<details>
+  <summary><b>🧾 01_sales_summary.sql — Sales Summary by Month and Region</b></summary>
 
-Each query was used to extract and prepare data for the Power BI model.
+  Summarizes total sales by month and region to identify revenue trends across time and geography.
+
+</details>
+
+<details>
+  <summary><b>🏆 02_top_products.sql — Top-Selling Products</b></summary>
+
+  Lists the top 10 products based on total revenue to highlight the most profitable items.
+
+</details>
+
+<details>
+  <summary><b>👥 03_customer_segments.sql — Customer Segmentation</b></summary>
+
+  Groups customers into High, Medium, and Low Value segments based on their total purchase amount.
+
+</details>
+
+<details>
+  <summary><b>🚚 04_shipping_performance.sql — Delivery Performance</b></summary>
+
+  Analyzes delivery efficiency by comparing shipped and required dates to classify orders as On-Time or Late.
+
+</details>
+
+<details>
+  <summary><b>👩‍💼 05_employee_orders.sql — Employee Performance</b></summary>
+
+  Evaluates employee productivity based on total number of orders processed and sales value generated.
+
+</details>
+
+<details>
+  <summary><b>📦 06_inventory_status.sql — Inventory Overview</b></summary>
+
+  Monitors product stock levels and identifies low-stock items to support better inventory management.
+
+</details>
+
 
 
 
