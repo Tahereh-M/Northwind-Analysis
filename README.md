@@ -8,7 +8,9 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 ## 🧩 Project Overview
 
 **Goal:**  
-To create a data-driven dashboard that helps visualize Northwind's sales performance, operational efficiency, and customer behavior.
+To analyze the Northwind database through two complementary approaches:
+- **SQL Queries:** Used independently to perform business data exploration and demonstrate SQL-based analysis techniques.  
+- **Power BI Dashboard:** Designed separately to visualize key metrics for Sales, Operations, and Customers.
 
 **Tools Used:**
 - Microsoft SQL Server  
