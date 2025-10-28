@@ -88,8 +88,6 @@ Northwind-Analytics/
 <details>
   <summary><b>🧾 Q1_Expensive_Products_Customers.sql</b></summary>
 
-  /**************************************************************
-Question 1:
 The marketing team wants to analyze customers who purchased expensive products.
 
 The marketing team wants to identify customers who bought high-priced products for targeted campaigns.
@@ -105,22 +103,8 @@ Filters:
 2- The number of products purchased should be more than 3.
 
 Sort the results by average order value in descending order.
-**************************************************************/
 
-SELECT 
-	c.CompanyName ,
-	YEAR(o.OrderDate) AS OrderYear,
-	COUNT(DISTINCT od.ProductID) AS TotalExpensiveProducts,
-	ROUND(SUM(OD.Quantity * OD.UnitPrice * (1 - OD.Discount)) / COUNT(DISTINCT O.OrderID),2) AS AverageOrderValue	
-FROM Customers c
-inner join orders o ON c.CustomerID = o.CustomerID
-inner join [Order Details] od ON o.OrderID = od.OrderID
-inner join Products p ON p.ProductID = od.ProductID
-WHERE od.UnitPrice > 30 and
-p.Discontinued =0
-GROUP BY c.companyname, YEAR(o.OrderDate)
-HAVING COUNT(DISTINCT od.ProductID) > 3
-ORDER BY AverageOrderValue DESC;
+ 🔗 [View SQL Code](Q1_Expensive_Products_Customers.sql)
 
 </details>
 
