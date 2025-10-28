@@ -104,7 +104,7 @@ Filters:
 
 Sort the results by average order value in descending order.
 
- 🔗 [View SQL Code](Q1_Expensive_Products_Customers.sql)
+ 🔗 [View Q1 solution](Queries/Q1_Expensive_Products_Customers.sql)
 
 </details>
 
