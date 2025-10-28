@@ -107,7 +107,11 @@ Sort the results by average order value in descending order.
 
  🔗 [View Q1 solution](Queries/Q1_Expensive_Products_Customers.sql)
  🔗 [View Q1 Result](CSV/Q1_Result_Expensive_Products_Customers.csv)
- 
+
+---  
+<br>  
+<div style="height: 3px; background: linear-gradient(to right, #ff6b6b, #4ecdc4); border-radius: 2px;"></div>  
+<br>  
 ---
 </details>
 
