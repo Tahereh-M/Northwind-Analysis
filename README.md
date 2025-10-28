@@ -87,7 +87,6 @@ Northwind-Analytics/
 
 <details>
   <summary><b>🛒 Q1_Expensive_Products_Customers.sql</b></summary>
-**Q1_Expensive_Products_Customers.sql**
 
 The marketing team wants to analyze customers who purchased expensive products.
 
@@ -107,6 +106,7 @@ Sort the results by average order value in descending order.
 
 
  🔗 [View Q1 solution](Queries/Q1_Expensive_Products_Customers.sql)
+ 🔗 [View Q1 Result](CSV/Q1_Result_Expensive_Products_Customers.csv)
 
 </details>
 
