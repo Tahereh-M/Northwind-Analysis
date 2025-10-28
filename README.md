@@ -68,5 +68,44 @@ Each query was used to extract and prepare data for the Power BI model.
 
 
 
+</details>
+
+---
+
+## 🚀 How to Use
+
+1. Restore the **Northwind** database in SQL Server.  
+2. Run all SQL queries from the `/SQL_Queries/` folder.  
+3. Import the resulting tables into Power BI.  
+4. Open `Northwind_Dashboard.pbix` to explore the dashboard.
+
+---
+
+## 🧠 Insights
+
+- Top-performing products and categories  
+- On-time delivery rate and shipping efficiency  
+- High-value vs. low-value customer segmentation  
+
+---
+
+## 📸 Preview
+
+| Page | Screenshot |
+|------|-------------|
+| Sales | ![Sales](PowerBI_Dashboard/Dashboard_Screenshots/sales_page.png) |
+| Operations | ![Operations](PowerBI_Dashboard/Dashboard_Screenshots/operations_page.png) |
+| Customers | ![Customers](PowerBI_Dashboard/Dashboard_Screenshots/customers_page.png) |
+
+---
+
+## 🏷️ Tags
+`#SQLServer` `#PowerBI` `#DataAnalysis` `#Northwind` `#Dashboard` `#BusinessIntelligence`
+
+---
+
+👩‍💻 **Author:** Tahereh M.  
+📅 *Created in 2025*  
+
 
 
