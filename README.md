@@ -86,7 +86,7 @@ Northwind-Analytics/
 ## 💾 SQL Queries
 
 <details>
-  <summary><b>🛒 Q1_Expensive_Products_Customers.sql</b></summary>
+  <summary><b>🛒 Question1_Expensive_Products_Customers.sql</b></summary>
 
 The marketing team wants to analyze customers who purchased expensive products.
 
