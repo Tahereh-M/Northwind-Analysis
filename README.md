@@ -25,22 +25,22 @@ To analyze the Northwind database through two complementary approaches:
 
 Northwind-Analytics/
 │
-├── SQL_Queries/                      # Independent SQL scripts for data analysis
-│   ├── 01_sales_summary.sql          # Summary of total sales by month and region
-│   ├── 02_top_products.sql           # Top-selling products by total revenue
-│   ├── 03_customer_segments.sql      # Customer grouping by purchase volume
-│   ├── 04_shipping_performance.sql   # On-time vs late delivery analysis
-│   ├── 05_employee_orders.sql        # Employee-level order performance
-│   └── 06_inventory_status.sql       # Inventory and low-stock products
+├── SQL_Queries/                      
+│   ├── 01_sales_summary.sql          
+│   ├── 02_top_products.sql           
+│   ├── 03_customer_segments.sql      
+│   ├── 04_shipping_performance.sql   
+│   ├── 05_employee_orders.sql        
+│   └── 06_inventory_status.sql       
 │
-├── PowerBI_Dashboard/                # Power BI dashboard files
+├── PowerBI_Dashboard/                
 │   ├── Northwind_Dashboard.pbix
-│   └── Screenshots/                  # Dashboard page screenshots
+│   └── Screenshots/                  
 │       ├── sales_page.png
 │       ├── operations_page.png
 │       └── customers_page.png
 │
-└── README.md                         # Project documentation
+└── README.md                         
 </details>
 
 ---
