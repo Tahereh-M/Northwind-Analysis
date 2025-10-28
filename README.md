@@ -107,7 +107,8 @@ Sort the results by average order value in descending order.
 
  🔗 [View Q1 solution](Queries/Q1_Expensive_Products_Customers.sql)
  🔗 [View Q1 Result](CSV/Q1_Result_Expensive_Products_Customers.csv)
----  
+
+***  
 
 </details>
 
