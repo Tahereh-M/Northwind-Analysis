@@ -87,22 +87,24 @@ Northwind-Analytics/
 
 <details>
   <summary><b>🛒 Q1_Expensive_Products_Customers.sql</b></summary>
+**Q1_Expensive_Products_Customers.sql**
 
 The marketing team wants to analyze customers who purchased expensive products.
 
-The marketing team wants to identify customers who bought high-priced products for targeted campaigns.
+The marketing team wants to identify customers who bought high-priced products for targeted campaigns.  
 You've been asked to provide a list with the following information:
 
-1- Customer company name (CompanyName)
-2- Number of products purchased with unit price above $30 (Total Expensive Products)
-3- Average order value (Average Order Value, with 2 decimal places)
+1. Customer company name (`CompanyName`)  
+2. Number of products purchased with unit price above $30 (`Total Expensive Products`)  
+3. Average order value (`Average Order Value`, with 2 decimal places)  
 
-Filters:
+**Filters:**
 
-1- Products should not be discontinued.
-2- The number of products purchased should be more than 3.
+1. Products should not be discontinued.  
+2. The number of products purchased should be more than 3.  
 
 Sort the results by average order value in descending order.
+
 
  🔗 [View Q1 solution](Queries/Q1_Expensive_Products_Customers.sql)
 
