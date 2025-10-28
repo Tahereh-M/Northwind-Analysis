@@ -86,7 +86,7 @@ Northwind-Analytics/
 ## 💾 SQL Queries
 
 <details>
-  <summary><b>🧾 01_sales_summary.sql — Sales Summary by Month and Region</b></summary>
+  <summary><b>🧾 Q1_Expensive_Products_Customers.sql</b></summary>
 
   Summarizes total sales by month and region to identify revenue trends across time and geography.
 
