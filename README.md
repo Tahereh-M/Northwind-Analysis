@@ -81,7 +81,7 @@ Northwind-Analytics/
   ![Customers Dashboard](PowerBI_Dashboard/Dashboard_Screenshots/customers_page.png)
 </details>
 
----
+<hr style="border: 2px solid #0969da; border-radius: 2px; margin: 2rem 0;">
 
 ## 💾 SQL Queries
 
