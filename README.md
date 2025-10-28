@@ -17,20 +17,56 @@ To create a data-driven dashboard that helps visualize Northwind's sales perform
 
 ---
 
-## 📂 Folder Structure
-├── Queries/
-│   ├── query1_top_customers.sql
-│   ├── query2_category_sales.sql
-│   ├── query3_monthly_sales.sql
-│   ├── query4_top_suppliers.sql
-│   ├── query5_low_stock.sql
-│   └── query6_delayed_orders.sql
-├── Powerbi/
-│   └── Northwind_Dashboard.pbix
-├── screenshots/
-│   ├── page1_sales_by_region.png
-│   ├── page2_customers_products.png
-│   └── page3_order_trends.png
-└── README.md
+---
+
+## 📑 Dashboard Pages
+
+### 1️⃣ Sales Page
+- 🔹 Overview of total revenue, orders, and top-selling products  
+- 🔹 Monthly sales trends  
+
+<details>
+  <summary>🖼️ Click to view screenshot</summary>
+  
+  ![Sales Dashboard](PowerBI_Dashboard/Dashboard_Screenshots/sales_page.png)
+</details>
+
+---
+
+### 2️⃣ Operations Page
+- 🔹 Delivery performance and shipping times  
+- 🔹 Inventory and stock status  
+
+<details>
+  <summary>🖼️ Click to view screenshot</summary>
+  
+  ![Operations Dashboard](PowerBI_Dashboard/Dashboard_Screenshots/operations_page.png)
+</details>
+
+---
+
+### 3️⃣ Customers Page
+- 🔹 Top customers by total purchases  
+- 🔹 Customer segmentation by sales value  
+
+<details>
+  <summary>🖼️ Click to view screenshot</summary>
+  
+  ![Customers Dashboard](PowerBI_Dashboard/Dashboard_Screenshots/customers_page.png)
+</details>
+
+---
+
+## 💾 SQL Queries
+
+<details>
+  <summary>📜 Click to expand all SQL queries</summary>
+
+Each query was used to extract and prepare data for the Power BI model.
+
+
+
+
+
 
 
