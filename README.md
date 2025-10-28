@@ -18,20 +18,19 @@ To create a data-driven dashboard that helps visualize Northwind's sales perform
 ---
 
 ## 📂 Folder Structure
-│
-├── Queries/ # Folder containing all SQL scripts
-│ ├── query1_sales_summary.sql
-│ ├── query2_top_products.sql
-│ ├── query3_customer_sales.sql
-│ ├── query4_shipping_performance.sql
-│ ├── query5_employee_orders.sql
-│ └── query6_inventory_status.sql
-│
-├── PowerBI_Dashboard/
-│ │── sales_page.png
-│ ├── operations_page.png
-│ └── customers_page.png
-│
+├── Queries/
+│   ├── query1_top_customers.sql
+│   ├── query2_category_sales.sql
+│   ├── query3_monthly_sales.sql
+│   ├── query4_top_suppliers.sql
+│   ├── query5_low_stock.sql
+│   └── query6_delayed_orders.sql
+├── Powerbi/
+│   └── Northwind_Dashboard.pbix
+├── screenshots/
+│   ├── page1_sales_by_region.png
+│   ├── page2_customers_products.png
+│   └── page3_order_trends.png
 └── README.md
 
 
