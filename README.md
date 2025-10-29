@@ -144,9 +144,36 @@ You've been asked to provide a list with the following information:
 </details>
 
 <details>
-  <summary><b>👥 03_customer_segments.sql — Customer Segmentation</b></summary>
+  <summary><b>👥 Question3: Sales_Performance_Supplier_Within_Category</b></summary>
 
-  Groups customers into High, Medium, and Low Value segments based on their total purchase amount.
+  The Marketing Team wants to analyze the sales performance of suppliers within each product category.
+
+  They asked to provide a list with the following information:
+
+
+1. Category name
+2. Supplier name
+3. Supplier country
+4. Their total revenue(rounded to 2 decimals)
+5. Their total quantity sold
+6. The average revenue per category (rounded to 2 decimals)
+
+
+The list should be filtered by the following condition:
+
+
+The supplier’s total revenue must be greater than the overall average revenue (calculated across all suppliers and categories).
+
+Finally, order the results by total revenue in descending order.
+
+
+ 
+ 🔗 [Solution](Queries/Q3_Sales_Performance_Supplier_Within_Category.sql)
+
+ 🔗 [Output](CSV/Q2_Result_Sales_Performance_Supplier_Within_Category.csv)
+
+ **⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐**
+ 
 
 </details>
 
