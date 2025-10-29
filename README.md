@@ -54,7 +54,7 @@ Northwind-Analytics/
 <details>
   <summary>🖼️ Click to view screenshot</summary>
   
-  ![Sales Dashboard](PowerBI_Dashboard/Dashboard_Screenshots/sales_page.png)
+  ![Sales Dashboard](PowerBI/1_Sales.PNG)
 </details>
 
 ---
