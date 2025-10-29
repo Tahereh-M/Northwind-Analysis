@@ -66,7 +66,7 @@ Northwind-Analytics/
 <details>
   <summary>🖼️ Click to view screenshot</summary>
   
-  ![Operations Dashboard](PowerBI_Dashboard/Dashboard_Screenshots/operations_page.png)
+  ![Operations Dashboard](PowerBI/2_Operations.PNG)
 </details>
 
 ---
@@ -78,7 +78,7 @@ Northwind-Analytics/
 <details>
   <summary>🖼️ Click to view screenshot</summary>
   
-  ![Customers Dashboard](PowerBI_Dashboard/Dashboard_Screenshots/customers_page.png)
+  ![Customers Dashboard](PowerBI/3_Customers.PNG)
 </details>
 
 ---
