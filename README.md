@@ -1,4 +1,4 @@
-# 📊 Northwind Company Analysis
+# 📊 Northwind Trader's Analysis
 
 This project analyzes the **Northwind** database using **SQL Server** and **Power BI**.  
 It includes **6 SQL queries** and a **3-page interactive dashboard** focused on **Sales**, **Operations**, and **Customers**.
@@ -8,7 +8,7 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 
 ## 📑 Table of Contents
 
-- [🎯 Project Overview](#-Project-goal)
+- [🎯 Project Overview](#-Project-Overview)
 - [🧭 Dataset](#-dataset)
 - [📊 Power BI Dashboard](#-power-bi-dashboard)
 - [🛢 SQL Queries](#-sql-queries)
