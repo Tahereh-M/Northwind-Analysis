@@ -15,6 +15,7 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 - [🧰 Tools Used](#-Tools-Used)
 - [📸 Screenshots](#-Screenshots)
 - [💡 Insights](#-Insights)
+- [🚀 How to Use](#-How-to-Use)
 
 
 ---
