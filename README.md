@@ -87,7 +87,8 @@ Northwind-Analytics/
 
 <details>
   <summary><b>🛒 Question1: Expensive_Products_Customers</b></summary>
-  
+
+
 
 The marketing team wants to analyze customers who purchased expensive products.
 
@@ -120,6 +121,7 @@ Sort the results by average order value in descending order.
   <summary><b>🏆 Question2: Rank_Employees_Based_Sales</b></summary>
 
 
+
 Rank employees based on their total sales
 
 You've been asked to provide a list with the following information:
@@ -149,9 +151,10 @@ You've been asked to provide a list with the following information:
   <summary><b>👥 Question3: Sales_Performance_Supplier_Within_Category</b></summary>
 
 
-  The Marketing Team wants to analyze the sales performance of suppliers within each product category.
 
-  They asked to provide a list with the following information:
+The Marketing Team wants to analyze the sales performance of suppliers within each product category.
+
+They asked to provide a list with the following information:
 
 
 1. Category name
