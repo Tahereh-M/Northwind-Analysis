@@ -292,9 +292,9 @@ Finally, order the results by country and then by supplier name.
 
 | Page | Screenshot |
 |------|-------------|
-| Sales | ![Sales](PowerBI_Dashboard/Dashboard_Screenshots/sales_page.png) |
-| Operations | ![Operations](PowerBI_Dashboard/Dashboard_Screenshots/operations_page.png) |
-| Customers | ![Customers](PowerBI_Dashboard/Dashboard_Screenshots/customers_page.png) |
+| Sales | ![Sales](PowerBI/1_Sales.PNG) |
+| Operations | ![Operations](PowerBI/2_Operations.PNG) |
+| Customers | ![Customers](PowerBI/3_Customers.PNG) |
 
 ---
 
