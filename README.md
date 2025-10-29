@@ -8,7 +8,7 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 
 ## 📑 Table of Contents
 
-- [🎯 Project Goal](#-project-goal)
+- [🎯 Project Overview](#-Project-goal)
 - [🧭 Dataset](#-dataset)
 - [📊 Power BI Dashboard](#-power-bi-dashboard)
 - [📜 SQL Queries](#-sql-queries)
@@ -19,6 +19,7 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 
 ---
 
+
 ## 🧩 Project Overview
 
 **Goal:**  
@@ -26,15 +27,11 @@ To analyze the Northwind database through two complementary approaches:
 - **SQL Queries:** Used independently to perform business data exploration and demonstrate SQL-based analysis techniques.  
 - **Power BI Dashboard:** Designed separately to visualize key metrics for Sales, Operations, and Customers.
 
-**Tools Used:**
-- Microsoft SQL Server  
-- Power BI Desktop  
-- Northwind sample database  
 
 ---
 
 
-## 📑 Dashboard Pages
+## 📑 Power BI Dashboard Pages
 
 ### 1️⃣ Sales Page
 - 🔹 Overview of total revenue, orders, and top-selling products  
@@ -260,6 +257,15 @@ Finally, order the results by country and then by supplier name.
 
 ---
 
+
+**Tools Used:**
+- Microsoft SQL Server  
+- Power BI Desktop  
+- Northwind sample database 
+
+
+---
+
 ## 🚀 How to Use
 
 1. Restore the **Northwind** database in SQL Server.  
@@ -267,15 +273,9 @@ Finally, order the results by country and then by supplier name.
 3. Import the resulting tables into Power BI.  
 4. Open `Northwind_Dashboard.pbix` to explore the dashboard.
 
----
-
-## 🧠 Insights
-
-- Top-performing products and categories  
-- On-time delivery rate and shipping efficiency  
-- High-value vs. low-value customer segmentation  
 
 ---
+
 
 ## 📸 Preview
 
@@ -284,6 +284,16 @@ Finally, order the results by country and then by supplier name.
 | Sales | ![Sales](PowerBI/1_Sales.PNG) |
 | Operations | ![Operations](PowerBI/2_Operations.PNG) |
 | Customers | ![Customers](PowerBI/3_Customers.PNG) |
+
+---
+
+
+## 🧠 Insights
+
+- Top-performing products and categories  
+- On-time delivery rate and shipping efficiency  
+- High-value vs. low-value customer segmentation  
+
 
 ---
 
