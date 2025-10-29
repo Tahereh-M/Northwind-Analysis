@@ -11,7 +11,7 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 - [🎯 Project Overview](#-Project-goal)
 - [🧭 Dataset](#-dataset)
 - [📊 Power BI Dashboard](#-power-bi-dashboard)
-- [📜 SQL Queries](#-sql-queries)
+- [🛢 SQL Queries](#-sql-queries)
 - [🧰 Tools Used](#-tools-used)
 - [📸 Screenshots](#-screenshots)
 - [💡 Insights](#-insights)
@@ -20,7 +20,7 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 ---
 
 
-## 🧩 Project Overview
+## 🎯 Project Overview
 
 **Goal:**  
 To analyze the Northwind database through two complementary approaches:
@@ -31,7 +31,7 @@ To analyze the Northwind database through two complementary approaches:
 ---
 
 
-## 📑 Power BI Dashboard Pages
+## 📊 Power BI Dashboard Pages
 
 ### 1️⃣ Sales Page
 - 🔹 Overview of total revenue, orders, and top-selling products  
@@ -69,7 +69,7 @@ To analyze the Northwind database through two complementary approaches:
 
 ---
 
-## 💾 SQL Queries
+## 🛢 SQL Queries
 
 <details>
   <summary><b>🛒 Question1: Expensive_Products_Customers</b></summary>
@@ -258,20 +258,10 @@ Finally, order the results by country and then by supplier name.
 ---
 
 
-**Tools Used:**
+## 🧰 Tools Used
 - Microsoft SQL Server  
 - Power BI Desktop  
 - Northwind sample database 
-
-
----
-
-## 🚀 How to Use
-
-1. Restore the **Northwind** database in SQL Server.  
-2. Run all SQL queries from the `/SQL_Queries/` folder.  
-3. Import the resulting tables into Power BI.  
-4. Open `Northwind_Dashboard.pbix` to explore the dashboard.
 
 
 ---
@@ -288,11 +278,22 @@ Finally, order the results by country and then by supplier name.
 ---
 
 
-## 🧠 Insights
+## 💡 Insights
 
 - Top-performing products and categories  
 - On-time delivery rate and shipping efficiency  
 - High-value vs. low-value customer segmentation  
+
+
+---
+
+
+## 🚀 How to Use
+
+1. Restore the **Northwind** database in SQL Server.  
+2. Run all SQL queries from the `/SQL_Queries/` folder.  
+3. Import the resulting tables into Power BI.  
+4. Open `Northwind_Dashboard.pbix` to explore the dashboard.
 
 
 ---
