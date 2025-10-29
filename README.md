@@ -144,7 +144,7 @@ You've been asked to provide a list with the following information:
 </details>
 
 <details>
-  <summary><b>👥 Question3: Sales_Performance_Supplier_Within_Category</b></summary>
+  <summary><b>📦 Question3: Sales_Performance_Supplier_Within_Category</b></summary>
 
 The Marketing Team wants to analyze the sales performance of suppliers within each product category.
 
@@ -178,24 +178,93 @@ Finally, order the results by total revenue in descending order.
 </details>
 
 <details>
-  <summary><b>🚚 04_shipping_performance.sql — Delivery Performance</b></summary>
+  <summary><b>🌍 Question4: Sales_Region_Territory_Years</b></summary>
 
-  Analyzes delivery efficiency by comparing shipped and required dates to classify orders as On-Time or Late.
+The Management Team wants to analyze sales performance by region and territory over the years 1996-1998.
+
+
+They asked to provide a report with the following information:
+
+1. Region (`Region Name`)
+2. Territory (`Territory Name`)
+3. The total sales for each year (1996, 1997, 1998)
+
+
+The report should be based on the following conditions:
+
+The results should be displayed in a pivot format, with years (1996, 1997, 1998) as separate columns.
+
+
+Finally, order the results by Region and then by Territory in ascending order.
+
+ 
+ 🔗 [Solution](Queries/Q4_Sales_Region_Territory_Years.sql)
+
+ 🔗 [Output](CSV/Q4_Result_Sales_Region_Territory_Years.csv)
+
+ **⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐**
+
 
 </details>
 
 <details>
-  <summary><b>👩‍💼 05_employee_orders.sql — Employee Performance</b></summary>
+  <summary><b>🚚 Question5: Delivery_Performance_Shipment_Delays</b></summary>
 
-  Evaluates employee productivity based on total number of orders processed and sales value generated.
+The Operations Team wants to evaluate delivery performance in terms of shipment delays.
+
+
+They asked you to provide a report with the following information:
+
+1. Shipper name
+2. Employee name
+3. Delay category for each order, defined as:
+
+	On Time → when ShippedDate <= RequiredDate
+
+	Minor Delay → when the shipment delay is between 1 and 3 days
+
+	Major Delay → when the shipment delay is greater than 3 days
+
+4. The average delay days (only for orders with an average delay > 0 days)
+5. The total number of orders
+6. A ranking of employees within each shipper based on their average delay
+
+
+Finally, order the results by Shipper name and then by delay rank.
+
+ 
+ 🔗 [Solution](Queries/Q5_Delivery_Performance_Shipment_Delays.sql)
+
+ 🔗 [Output](CSV/Q5_Result_Q5_Delivery_Performance_Shipment_Delays.csv)
+
+ **⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐**
+
 
 </details>
 
 <details>
-  <summary><b>📦 06_inventory_status.sql — Inventory Overview</b></summary>
+  <summary><b>📈 Question6: Sales_Across_Multiple_levels_aggregation</b></summary>
 
-  Monitors product stock levels and identifies low-stock items to support better inventory management.
+The Sales Team wants to analyze sales performance across multiple levels of aggregation. 
 
+
+They asked you to prepare a report that provides:
+
+1. Total Revenue for each supplier by product category and country.
+2. Subtotals for each supplier (across all categories).
+3. Subtotals for each country (across all suppliers).
+4. A grand total of sales across all suppliers and countries.
+5. Additionally, display the overall company revenue on every row for reference.
+
+
+Finally, order the results by country and then by supplier name.
+
+ 
+ 🔗 [Solution](Queries/Q6_Sales_Across_Multiple_levels_aggregation.sql)
+
+ 🔗 [Output](CSV/Q6_Result_Q6_Sales_Across_Multiple_levels_aggregation.csv)
+
+ 
 </details>
 
 
