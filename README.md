@@ -110,7 +110,7 @@ Sort the results by average order value in descending order.
  🔗 [Output](CSV/Q1_Result_Expensive_Products_Customers.csv)
 
   
-**⭐⭐⭐⭐⭐⭐⭐⭐⭐**  
+**⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐**  
  
 
 </details>
@@ -121,8 +121,8 @@ Sort the results by average order value in descending order.
 Rank employees based on their total sales
 
 You've been asked to provide a list with the following information:
- 1. Employee's Name(FirstName + LastName)
- 2. Shipper Name (Shipper company name)
+ 1. Employee's Name(`FirstName` + `LastName`)
+ 2. Shipper Name (`Shipper company name`)
  3. Year of sale 
  4. Total Sales (with 2 decimal places)
  5. Sales Rank 
@@ -138,7 +138,7 @@ You've been asked to provide a list with the following information:
 
  🔗 [Output](CSV/Q2_Result_Rank_Employees_Based_Sales.csv)
 
- **⭐⭐⭐⭐⭐⭐⭐⭐⭐**
+ **⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐**
 
 
 </details>
