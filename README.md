@@ -262,7 +262,7 @@ Finally, order the results by country and then by supplier name.
  
  🔗 [Solution](Queries/Q6_Sales_Across_Multiple_levels_aggregation.sql)
 
- 🔗 [Output](CSV/Q6_Result_Q6_Sales_Across_Multiple_levels_aggregation.csv)
+ 🔗 [Output](CSV/Q6_Result_Sales_Across_Multiple_levels_aggregation.csv)
 
  
 </details>
