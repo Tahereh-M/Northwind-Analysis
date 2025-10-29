@@ -86,7 +86,7 @@ Northwind-Analytics/
 ## 💾 SQL Queries
 
 <details>
-  <summary><b>🛒 Question1_Expensive_Products_Customers.sql</b></summary>
+  <summary><b>🛒 Question1:Expensive_Products_Customers</b></summary>
 
 The marketing team wants to analyze customers who purchased expensive products.
 
@@ -116,9 +116,29 @@ Sort the results by average order value in descending order.
 </details>
 
 <details>
-  <summary><b>🏆 02_top_products.sql — Top-Selling Products</b></summary>
+  <summary><b>🏆 Question2:Rank_Employees_Based_Sales</b></summary>
 
-  Lists the top 10 products based on total revenue to highlight the most profitable items.
+Rank employees based on their total sales
+
+You've been asked to provide a list with the following information:
+ 1. Employee's Name(FirstName + LastName)
+ 2. Shipper Name (Shipper company name)
+ 3. Year of sale 
+ 4. Total Sales (with 2 decimal places)
+ 5. Sales Rank 
+
+ **Filters:**
+  Remove invalid records
+
+ Sort the results by year and rank.
+
+ 
+ 🔗 [Solution](Queries/Q2_Rank_Employees_Based_Sales.sql)
+
+ 🔗 [Output](CSV/Q2_Result_Rank_Employees_Based_Sales.csv)
+
+ **⭐⭐⭐⭐⭐⭐⭐⭐⭐**
+
 
 </details>
 
