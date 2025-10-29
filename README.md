@@ -9,7 +9,7 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 ## 📑 Table of Contents
 
 - [🎯 Project Overview](#-Project-Overview)
-- [🧭 Dataset](#-dataset)
+- [🧾 Dataset](#-dataset)
 - [📊 Power BI Dashboard](#-Power-BI-Dashboard)
 - [🛢 SQL Queries](#-Sql-Queries)
 - [🧰 Tools Used](#-Tools-Used)
@@ -32,7 +32,7 @@ To analyze the Northwind database through two complementary approaches:
 ---
 
 
-## 🧭 Dataset
+## 🧾 Dataset
 
 
 ---
