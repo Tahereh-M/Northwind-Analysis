@@ -86,7 +86,7 @@ Northwind-Analytics/
 ## 💾 SQL Queries
 
 <details>
-  <summary><b>🛒 Question1:Expensive_Products_Customers</b></summary>
+  <summary><b>🛒 Question1: Expensive_Products_Customers</b></summary>
 
 The marketing team wants to analyze customers who purchased expensive products.
 
@@ -116,7 +116,7 @@ Sort the results by average order value in descending order.
 </details>
 
 <details>
-  <summary><b>🏆 Question2:Rank_Employees_Based_Sales</b></summary>
+  <summary><b>🏆 Question2: Rank_Employees_Based_Sales</b></summary>
 
 Rank employees based on their total sales
 
@@ -128,7 +128,8 @@ You've been asked to provide a list with the following information:
  5. Sales Rank 
 
  **Filters:**
-  Remove invalid records
+
+ Remove invalid records
 
  Sort the results by year and rank.
 
