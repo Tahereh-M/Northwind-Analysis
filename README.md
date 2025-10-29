@@ -18,30 +18,20 @@ To analyze the Northwind database through two complementary approaches:
 - Northwind sample database  
 
 ---
-## 📂 Repository Structure
 
-<details>
-  <summary>🗂️ Click to expand folder structure</summary>
 
-Northwind-Analytics/
-│
-├── SQL_Queries/                      
-│   ├── 01_sales_summary.sql          
-│   ├── 02_top_products.sql           
-│   ├── 03_customer_segments.sql      
-│   ├── 04_shipping_performance.sql   
-│   ├── 05_employee_orders.sql        
-│   └── 06_inventory_status.sql       
-│
-├── PowerBI_Dashboard/                
-│   ├── Northwind_Dashboard.pbix
-│   └── Screenshots/                  
-│       ├── sales_page.png
-│       ├── operations_page.png
-│       └── customers_page.png
-│
-└── README.md                         
-</details>
+## 📑 Table of Contents
+
+- [🎯 Project Goal](#-project-goal)
+- [📂 Project Structure](#-project-structure)
+- [🧭 Dataset](#-dataset)
+- [📊 Power BI Dashboard](#-power-bi-dashboard)
+- [📜 SQL Queries](#-sql-queries)
+- [🧰 Tools Used](#-tools-used)
+- [📸 Screenshots](#-screenshots)
+- [💡 Insights](#-insights)
+
+
 
 ---
 
