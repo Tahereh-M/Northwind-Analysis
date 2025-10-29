@@ -88,8 +88,6 @@ Northwind-Analytics/
 <details>
   <summary><b>🛒 Question1: Expensive_Products_Customers</b></summary>
 
-
-
 The marketing team wants to analyze customers who purchased expensive products.
 
 The marketing team wants to identify customers who bought high-priced products for targeted campaigns.  
@@ -120,8 +118,6 @@ Sort the results by average order value in descending order.
 <details>
   <summary><b>🏆 Question2: Rank_Employees_Based_Sales</b></summary>
 
-
-
 Rank employees based on their total sales
 
 You've been asked to provide a list with the following information:
@@ -150,8 +146,6 @@ You've been asked to provide a list with the following information:
 <details>
   <summary><b>👥 Question3: Sales_Performance_Supplier_Within_Category</b></summary>
 
-
-
 The Marketing Team wants to analyze the sales performance of suppliers within each product category.
 
 They asked to provide a list with the following information:
@@ -176,7 +170,7 @@ Finally, order the results by total revenue in descending order.
  
  🔗 [Solution](Queries/Q3_Sales_Performance_Supplier_Within_Category.sql)
 
- 🔗 [Output](CSV/Q2_Result_Sales_Performance_Supplier_Within_Category.csv)
+ 🔗 [Output](CSV/Q3_Result_Sales_Performance_Supplier_Within_Category.csv)
 
  **⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐**
 
