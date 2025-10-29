@@ -10,11 +10,11 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 
 - [🎯 Project Overview](#-Project-Overview)
 - [🧭 Dataset](#-dataset)
-- [📊 Power BI Dashboard](#-power-bi-dashboard)
-- [🛢 SQL Queries](#-sql-queries)
-- [🧰 Tools Used](#-tools-used)
-- [📸 Screenshots](#-screenshots)
-- [💡 Insights](#-insights)
+- [📊 Power BI Dashboard](#-Power-BI-Dashboard)
+- [🛢 SQL Queries](#-Sql-Queries)
+- [🧰 Tools Used](#-Tools-Used)
+- [📸 Screenshots](#-Sreenshots)
+- [💡 Insights](#-Insights)
 
 
 ---
@@ -31,7 +31,7 @@ To analyze the Northwind database through two complementary approaches:
 ---
 
 
-## 📊 Power BI Dashboard Pages
+## 📊 Power BI Dashboard
 
 ### 1️⃣ Sales Page
 - 🔹 Overview of total revenue, orders, and top-selling products  
@@ -267,7 +267,7 @@ Finally, order the results by country and then by supplier name.
 ---
 
 
-## 📸 Preview
+## 📸 Screenshots
 
 | Page | Screenshot |
 |------|-------------|
