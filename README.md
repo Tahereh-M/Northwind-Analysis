@@ -13,7 +13,7 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 - [📊 Power BI Dashboard](#-Power-BI-Dashboard)
 - [🛢 SQL Queries](#-Sql-Queries)
 - [🧰 Tools Used](#-Tools-Used)
-- [📸 Screenshots](#-Sreenshots)
+- [📸 Screenshots](#-Screenshots)
 - [💡 Insights](#-Insights)
 
 
