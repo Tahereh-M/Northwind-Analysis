@@ -235,7 +235,7 @@ Finally, order the results by Shipper name and then by delay rank.
  
  🔗 [Solution](Queries/Q5_Delivery_Performance_Shipment_Delays.sql)
 
- 🔗 [Output](CSV/Q5_Result_Q5_Delivery_Performance_Shipment_Delays.csv)
+ 🔗 [Output](CSV/Q5_Result_Delivery_Performance_Shipment_Delays.csv)
 
  **⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐**
 
