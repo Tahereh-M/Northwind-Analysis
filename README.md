@@ -5,6 +5,20 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 
 ---
 
+
+## 📑 Table of Contents
+
+- [🎯 Project Goal](#-project-goal)
+- [🧭 Dataset](#-dataset)
+- [📊 Power BI Dashboard](#-power-bi-dashboard)
+- [📜 SQL Queries](#-sql-queries)
+- [🧰 Tools Used](#-tools-used)
+- [📸 Screenshots](#-screenshots)
+- [💡 Insights](#-insights)
+
+
+---
+
 ## 🧩 Project Overview
 
 **Goal:**  
@@ -19,21 +33,6 @@ To analyze the Northwind database through two complementary approaches:
 
 ---
 
-
-## 📑 Table of Contents
-
-- [🎯 Project Goal](#-project-goal)
-- [📂 Project Structure](#-project-structure)
-- [🧭 Dataset](#-dataset)
-- [📊 Power BI Dashboard](#-power-bi-dashboard)
-- [📜 SQL Queries](#-sql-queries)
-- [🧰 Tools Used](#-tools-used)
-- [📸 Screenshots](#-screenshots)
-- [💡 Insights](#-insights)
-
-
-
----
 
 ## 📑 Dashboard Pages
 
