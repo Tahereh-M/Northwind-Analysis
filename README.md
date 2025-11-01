@@ -34,6 +34,22 @@ To analyze the Northwind database through two complementary approaches:
 
 ## 🧾 Dataset
 
+The **Northwind Traders** dataset is a classic business database that simulates a company’s sales, products, employees, and customer operations.
+
+ 
+Originally provided by Microsoft as a sample database:  
+**➡️ [Northwind Sample Database](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)**
+
+ 
+The dataset includes multiple relational tables such as:  
+- 🧾 **Orders** – Sales transactions and shipping details  
+- 👥 **Customers** – Client information and locations  
+- 🧍‍♂️ **Employees** – Sales representatives and managers  
+- 🚚 **Shippers** – Delivery companies handling orders  
+- 📦 **Products** – Items, categories, and pricing details  
+- 🏷️ **Categories** – Product categories and descriptions  
+- 🌍 **Suppliers** – Vendor details and contact information  
+
 
 ---
 
