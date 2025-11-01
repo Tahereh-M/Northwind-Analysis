@@ -304,9 +304,10 @@ Finally, order the results by country and then by supplier name.
 
 ## 💡 Insights
 
-- Top-performing products and categories  
-- On-time delivery rate and shipping efficiency  
-- High-value vs. low-value customer segmentation  
+Identified top-selling products and analyzed their performance across categories, countries, and territories.  
+Recognized high-value customers contributing significantly to overall sales revenue.  
+Performed comprehensive sales analysis by company, category, and region using interactive slicers for **Month**, **Year**, **Country**, and **Shipper** to enable dynamic data exploration.  
+Conducted time-series analysis to uncover seasonal patterns and long-term sales trends, supporting better business forecasting.
 
 
 ---
@@ -315,9 +316,8 @@ Finally, order the results by country and then by supplier name.
 ## 🚀 How to Use
 
 1. Restore the **Northwind** database in SQL Server.  
-2. Run all SQL queries from the `/SQL_Queries/` folder.  
-3. Import the resulting tables into Power BI.  
-4. Open `Northwind_Dashboard.pbix` to explore the dashboard.
+2. Run all SQL queries from the `/Queries/` folder.  
+3. Open `Northwind_Dashboard.pbix` to explore the dashboard.
 
 
 ---
