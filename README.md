@@ -327,7 +327,7 @@ Conducted time-series analysis to uncover seasonal patterns and long-term sales 
 
 ---
 
-👩‍💻 **Author:** Tahereh M.  
+👩‍💻 **Author:** Tahereh Masoumi.  
 📅 *Created in 2025*  
 
 
