@@ -40,8 +40,8 @@ To analyze the Northwind database through two complementary approaches:
 ## 📊 Power BI Dashboard
 
 ### 1️⃣ Sales Page
-- 🔹 Overview of total revenue, orders, and top-selling products  
-- 🔹 Monthly sales trends  
+- 🔹 Overview of Total Sales, Total Orders, Total Discount Amount, Average Order Value(AOV), and YOY Sales Growth  
+- 🔹 Sales trend, Sales Distribution by Category, Top 10 Best-Selling Products, and Top Countries by Sales Value  
 
 <details>
   <summary>🖼️ Click to view screenshot</summary>
@@ -52,8 +52,8 @@ To analyze the Northwind database through two complementary approaches:
 ---
 
 ### 2️⃣ Operations Page
-- 🔹 Delivery performance and shipping times  
-- 🔹 Inventory and stock status  
+- 🔹 Total Fright, Average Fright per Order, Average Delivery Time, Employee Efficiency, and Low Stock  
+- 🔹 Employee Performance, Products Requiring Attention, Total Orders by shipper, Active and Discontinued Products, and Number of Orders by Delivery Status  
 
 <details>
   <summary>🖼️ Click to view screenshot</summary>
@@ -64,8 +64,8 @@ To analyze the Northwind database through two complementary approaches:
 ---
 
 ### 3️⃣ Customers Page
-- 🔹 Top customers by total purchases  
-- 🔹 Customer segmentation by sales value  
+- 🔹 Total Customers, Orders per Customers(AVG), Revenue per Customers(AVG), Customer Retention Rate, and Average Discount per Orders
+- 🔹 Top Countries by Average Customer Sales, Sales Distribution by Customer Segment, Most Valuable Customers, and Monthly Sales Trend by Customer Segment  
 
 <details>
   <summary>🖼️ Click to view screenshot</summary>
