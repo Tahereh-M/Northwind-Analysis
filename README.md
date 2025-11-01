@@ -37,11 +37,12 @@ To analyze the Northwind database through two complementary approaches:
 
 ---
 
+
 ## 📊 Power BI Dashboard
 
 ### 1️⃣ Sales Page
-- 🔹 Overview of Total Sales, Total Orders, Total Discount Amount, Average Order Value(AOV), and YOY Sales Growth  
-- 🔹 Sales trend, Sales Distribution by Category, Top 10 Best-Selling Products, and Top Countries by Sales Value  
+- 🔹 Overview of **Total Sales**, **Total Orders**, **Total Discount Amount**, **Average Order Value (AOV)**, and **Year-over-Year (YOY) Sales Growth**  
+- 🔹 Includes **Sales Trend**, **Sales Distribution by Category**, **Top 10 Best-Selling Products**, and **Top Countries by Sales Value**  
 
 <details>
   <summary>🖼️ Click to view screenshot</summary>
@@ -52,8 +53,8 @@ To analyze the Northwind database through two complementary approaches:
 ---
 
 ### 2️⃣ Operations Page
-- 🔹 Total Fright, Average Fright per Order, Average Delivery Time, Employee Efficiency, and Low Stock  
-- 🔹 Employee Performance, Products Requiring Attention, Total Orders by shipper, Active and Discontinued Products, and Number of Orders by Delivery Status  
+- 🔹 Key metrics: **Total Freight**, **Average Freight per Order**, **Average Delivery Time**, **Employee Efficiency**, and **Low Stock Alerts**  
+- 🔹 Visuals include **Employee Performance**, **Products Requiring Attention**, **Orders by Shipper**, **Active vs Discontinued Products**, and **Orders by Delivery Status**  
 
 <details>
   <summary>🖼️ Click to view screenshot</summary>
@@ -64,14 +65,15 @@ To analyze the Northwind database through two complementary approaches:
 ---
 
 ### 3️⃣ Customers Page
-- 🔹 Total Customers, Orders per Customers(AVG), Revenue per Customers(AVG), Customer Retention Rate, and Average Discount per Orders
-- 🔹 Top Countries by Average Customer Sales, Sales Distribution by Customer Segment, Most Valuable Customers, and Monthly Sales Trend by Customer Segment  
+- 🔹 KPIs: **Total Customers**, **Average Orders per Customer**, **Average Revenue per Customer**, **Customer Retention Rate**, and **Average Discount per Order**  
+- 🔹 Visuals: **Top Countries by Average Customer Sales**, **Sales Distribution by Customer Segment**, **Most Valuable Customers**, and **Monthly Sales Trend by Segment**  
 
 <details>
   <summary>🖼️ Click to view screenshot</summary>
   
   ![Customers Dashboard](PowerBI/3_Customers.PNG)
 </details>
+
 
 ---
 
