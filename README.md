@@ -6,22 +6,22 @@ It includes **6 SQL queries** and a **3-page interactive dashboard** focused on 
 ---
 
 
-## 📑 Table of Contents
+##  Table of Contents
 
-- [🎯 Project Overview](#-Project-Overview)
-- [🧾 Dataset](#-dataset)
-- [📊 Power BI Dashboard](#-Power-BI-Dashboard)
-- [🛢 SQL Queries](#-Sql-Queries)
-- [🧰 Tools Used](#-Tools-Used)
-- [📸 Screenshots](#-Screenshots)
-- [💡 Insights](#-Insights)
-- [🚀 How to Use](#-How-to-Use)
+- [ Project Overview](#-Project-Overview)
+- [ Dataset](#-dataset)
+- [ Power BI Dashboard](#-Power-BI-Dashboard)
+- [ SQL Queries](#-Sql-Queries)
+- [ Tools Used](#-Tools-Used)
+- [ Screenshots](#-Screenshots)
+- [ Insights](#-Insights)
+- [ How to Use](#-How-to-Use)
 
 
 ---
 
 
-## 🎯 Project Overview
+##  Project Overview
 
 **Goal:**  
 To analyze the Northwind database through two complementary approaches:
@@ -32,29 +32,29 @@ To analyze the Northwind database through two complementary approaches:
 ---
 
 
-## 🧾 Dataset
+##  Dataset
 
 The **Northwind Traders** dataset is a classic business database that simulates a company’s sales, products, employees, and customer operations.
 
  
 Originally provided by Microsoft as a sample database:  
-**➡️ [Northwind Sample Database](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)**
+** [Northwind Sample Database](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)**
 
  
 The dataset includes multiple relational tables such as:  
-- 🧾 **Orders** – Sales transactions and shipping details  
-- 👥 **Customers** – Client information and locations  
-- 🧍‍♂️ **Employees** – Sales representatives and managers  
-- 🚚 **Shippers** – Delivery companies handling orders  
-- 📦 **Products** – Items, categories, and pricing details  
-- 🏷️ **Categories** – Product categories and descriptions  
-- 🌍 **Suppliers** – Vendor details and contact information  
+-  **Orders** – Sales transactions and shipping details  
+-  **Customers** – Client information and locations  
+-  **Employees** – Sales representatives and managers  
+-  **Shippers** – Delivery companies handling orders  
+-  **Products** – Items, categories, and pricing details  
+-  **Categories** – Product categories and descriptions  
+-  **Suppliers** – Vendor details and contact information  
 
 
 ---
 
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 ### 1️⃣ Sales Page
 - 🔹 Overview of **Total Sales**, **Total Orders**, **Total Discount Amount**, **Average Order Value (AOV)**, and **Year-over-Year (YOY) Sales Growth**  
@@ -93,10 +93,10 @@ The dataset includes multiple relational tables such as:
 
 ---
 
-## 🛢 SQL Queries
+##  SQL Queries
 
 <details>
-  <summary><b>🛒 Question1: Expensive_Products_Customers</b></summary>
+  <summary><b> Question1: Expensive_Products_Customers</b></summary>
 
 The marketing team wants to analyze customers who purchased expensive products.
 
@@ -126,7 +126,7 @@ Sort the results by average order value in descending order.
 </details>
 
 <details>
-  <summary><b>🏆 Question2: Rank_Employees_Based_Sales</b></summary>
+  <summary><b> Question2: Rank_Employees_Based_Sales</b></summary>
 
 Rank employees based on their total sales
 
@@ -154,7 +154,7 @@ You've been asked to provide a list with the following information:
 </details>
 
 <details>
-  <summary><b>📦 Question3: Sales_Performance_Supplier_Within_Category</b></summary>
+  <summary><b> Question3: Sales_Performance_Supplier_Within_Category</b></summary>
 
 The Marketing Team wants to analyze the sales performance of suppliers within each product category.
 
@@ -188,7 +188,7 @@ Finally, order the results by total revenue in descending order.
 </details>
 
 <details>
-  <summary><b>🌍 Question4: Sales_Region_Territory_Years</b></summary>
+  <summary><b> Question4: Sales_Region_Territory_Years</b></summary>
 
 The Management Team wants to analyze sales performance by region and territory over the years 1996-1998.
 
@@ -218,7 +218,7 @@ Finally, order the results by Region and then by Territory in ascending order.
 </details>
 
 <details>
-  <summary><b>🚚 Question5: Delivery_Performance_Shipment_Delays</b></summary>
+  <summary><b> Question5: Delivery_Performance_Shipment_Delays</b></summary>
 
 The Operations Team wants to evaluate delivery performance in terms of shipment delays.
 
@@ -253,7 +253,7 @@ Finally, order the results by Shipper name and then by delay rank.
 </details>
 
 <details>
-  <summary><b>📈 Question6: Sales_Across_Multiple_levels_aggregation</b></summary>
+  <summary><b> Question6: Sales_Across_Multiple_levels_aggregation</b></summary>
 
 The Sales Team wants to analyze sales performance across multiple levels of aggregation. 
 
@@ -282,7 +282,7 @@ Finally, order the results by country and then by supplier name.
 ---
 
 
-## 🧰 Tools Used
+##  Tools Used
 - Microsoft SQL Server  
 - Power BI Desktop  
 - Northwind sample database 
@@ -291,7 +291,7 @@ Finally, order the results by country and then by supplier name.
 ---
 
 
-## 📸 Screenshots
+##  Screenshots
 
 | Page | Screenshot |
 |------|-------------|
@@ -302,7 +302,7 @@ Finally, order the results by country and then by supplier name.
 ---
 
 
-## 💡 Insights
+##  Insights
 
 Identified top-selling products and analyzed their performance across categories, countries, and territories.  
 Recognized high-value customers contributing significantly to overall sales revenue.  
@@ -313,7 +313,7 @@ Conducted time-series analysis to uncover seasonal patterns and long-term sales 
 ---
 
 
-## 🚀 How to Use
+##  How to Use
 
 1. Restore the **Northwind** database in SQL Server.  
 2. Run all SQL queries from the `/Queries/` folder.  
@@ -322,13 +322,13 @@ Conducted time-series analysis to uncover seasonal patterns and long-term sales 
 
 ---
 
-## 🏷️ Tags
+##  Tags
 `#SQLServer` `#PowerBI` `#DataAnalysis` `#Northwind` `#Dashboard` `#BusinessIntelligence`
 
 ---
 
-👩‍💻 **Author:** Tahereh Masoumi.  
-📅 *Created in 2025*  
+ **Author:** Tahereh Masoumi.  
+ *Created in 2025*  
 
 
 
