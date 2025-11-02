@@ -316,7 +316,7 @@ Conducted time-series analysis to uncover seasonal patterns and long-term sales 
 ##  How to Use
 
 1. Restore the **Northwind** database in SQL Server.  
-2. Run all SQL queries from the `/Queries/` folder.  
+2. Run all SQL queries from the [`/Queries/`](Queries) folder.  
 3. Open [`/PowerBI/Northwind_Dashboard.pbix`](PowerBI/Northwind_Dashboard.pbix) to explore the interactive dashboard.
 
 
